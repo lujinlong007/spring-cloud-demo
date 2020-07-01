@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bus/config-bus-client/config-bus-client.iml" filepath="$PROJECT_DIR$/bus/config-bus-client/config-bus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/config-bus-server/config-bus-server.iml" filepath="$PROJECT_DIR$/bus/config-bus-server/config-bus-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" filepath="$PROJECT_DIR$/config/config-server-eureka/config-server-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-server-peer/eureka-server-peer.iml" filepath="$PROJECT_DIR$/eureka/eureka-server-peer/eureka-server-peer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-server-peer2/eureka-server-peer2.iml" filepath="$PROJECT_DIR$/eureka/eureka-server-peer2/eureka-server-peer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign-client/feign-client.iml" filepath="$PROJECT_DIR$/feign/feign-client/feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign-client-intf/feign-client-intf.iml" filepath="$PROJECT_DIR$/feign/feign-client-intf/feign-client-intf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign-consumer/feign-consumer.iml" filepath="$PROJECT_DIR$/feign/feign-consumer/feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign-consumer-advanced/feign-consumer-advanced.iml" filepath="$PROJECT_DIR$/feign/feign-consumer-advanced/feign-consumer-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hystrix/hystirx-fallback/hystirx-fallback.iml" filepath="$PROJECT_DIR$/Hystrix/hystirx-fallback/hystirx-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hystrix/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/Hystrix/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hystrix/hystrix-turbine/hystrix-turbine.iml" filepath="$PROJECT_DIR$/Hystrix/hystrix-turbine/hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon/ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo.iml" />
+    </modules>
+  </component>
+</project>
