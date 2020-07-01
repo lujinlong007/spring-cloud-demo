@@ -9,4 +9,4 @@ spring:
           force-pull: true #强制拉取资源文件
           #search-paths: abc,def*,
 server:
-  port: 60001
+  port: 60005
